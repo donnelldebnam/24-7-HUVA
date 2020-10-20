@@ -9,3 +9,6 @@ CSC 404 Fall 2020 Virtual Assistant Project
 
 ## How do I run it?
 To run 24/7 HUVA, we've created a widget within Hampton University's official website. You will need to download the index.html file that hosts the functionality within the S3 bucket and launch the file within your favorite browser, locally. This file can be found at: https://github.com/donnelldebnam/24-7-HUVA/blob/master/HUVA%20copy%202.html
+
+## An alternitive approach
+Another approach to running the chatbot locally is saving the code into your local IDE.  When looking at the list of GitHub Files, right click "HUVA Copy 2.HTML" and "save link as" to your desired location on your device. To open the file, go to the location saved and open in your desired browser. 
