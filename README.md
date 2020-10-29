@@ -8,4 +8,8 @@ CSC 404 Fall 2020 Virtual Assistant Project
 24/7 HUVA has been developed using a suite of Amazon Web Services including AWS Lex, DynamoDB, S3, and AWS Lambda. The bot takes in responses as text, maps the text to some "intent," or intended question, and digs in DynamoDB through Node.js in order to return some intelligent response to the user.
 
 ## How do I run it?
+To run the the chatbot, it's domain is hosted using Github's webpages feature. Click the link below the 
+https://donnelldebnam.github.io/247huva/
+
+## An Alternitive approach
 To run 24/7 HUVA, we've created a widget within Hampton University's official website. You will need to download the index.html file that hosts the functionality within the S3 bucket and launch the file within your favorite browser, locally. This file can be found at: https://github.com/donnelldebnam/24-7-HUVA/blob/master/HUVA%20copy%202.html
